@@ -3,4 +3,6 @@ torch == 1.13.0
 pandas == 1.5.1
 torchvision == 0.14.0
 typing == 3.7.4
-matplotlib ==3.6.2
+matplotlib == 3.6.2
+tensorboard == 2.11.0
+sklearn == 1.1.3
